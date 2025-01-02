@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HellowUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\HellowUnreal\Intermediate\Build\Win64\x64\HellowUnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Projects\HellowUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\HellowUnreal\HellowUnreal.cpp.obj"
+"C:\Projects\HellowUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\HellowUnreal\PerModuleInline.gen.cpp.obj"
+"C:\Projects\HellowUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\HellowUnreal\Default.rc2.res"
+/OUT:"C:\Projects\HellowUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\HellowUnreal\UnrealEditor-HellowUnreal.lib"

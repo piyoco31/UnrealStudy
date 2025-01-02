@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\HellowUnreal\\Source\\HellowUnreal\\HellowUnreal.Build.cs",
+		"C:\\Projects\\HellowUnreal\\Source\\HellowUnreal.Target.cs",
+		"C:\\Projects\\HellowUnreal\\Source\\HellowUnrealEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

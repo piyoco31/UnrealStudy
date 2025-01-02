@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HellowUnreal",
+			"Path": "..\\Source\\HellowUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HellowUnrealEditor",
+			"Path": "..\\Source\\HellowUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

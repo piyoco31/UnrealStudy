@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\hellowunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\hellowunreal\\uht\\hellowunreal.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\hellowunreal\\intermediate\\build\\win64\\x64\\hellowunrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\projects\\hellowunreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hellowunreal\\definitions.hellowunreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
